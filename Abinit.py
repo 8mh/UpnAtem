@@ -1,3 +1,4 @@
 
 #! dang it
 
+print ('abinit')
